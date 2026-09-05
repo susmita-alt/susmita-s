@@ -11,34 +11,34 @@
     "href": "experience.html",
     "title": "Susmita",
     "section": "",
-    "text": "title: “Teaching”"
+    "text": "Senior Programme Officer — Centre for People’s Forestry, Hyderabad, India\nSeptember 2024 – September 2025\nWorked on environmental research, grant management, stakeholder engagement, sustainable livelihoods, natural resource management, forest governance, and climate-resilient agriculture.\nAssociate Analyst — Legal Initiative for Forest and Environment, Kolkata, India\nFebruary 2022 – April 2023\nConducted research on environmental and forest governance issues, including compensatory afforestation, forest diversion, wetlands, eco-sensitive zones, and environmental regulations.\nSubject Matter Expert — Tata Consultancy Services (TCS iON)\nJanuary 2025 – Present\nReview and develop academic content and assessment materials in social science and geography, with expertise in research methods, spatial analysis, and geographic concepts."
   },
   {
-    "objectID": "experience.html#teaching-assistant",
-    "href": "experience.html#teaching-assistant",
+    "objectID": "experience.html#relevant-professional-experience",
+    "href": "experience.html#relevant-professional-experience",
     "title": "Susmita",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nEPPS 6302 — Methods of Data Collection and Production Fall 2026 · Course materials ## Guest Lectures - “Lecture Title,” EPPS XXXX, Spring 2026"
+    "section": "",
+    "text": "Senior Programme Officer — Centre for People’s Forestry, Hyderabad, India\nSeptember 2024 – September 2025\nWorked on environmental research, grant management, stakeholder engagement, sustainable livelihoods, natural resource management, forest governance, and climate-resilient agriculture.\nAssociate Analyst — Legal Initiative for Forest and Environment, Kolkata, India\nFebruary 2022 – April 2023\nConducted research on environmental and forest governance issues, including compensatory afforestation, forest diversion, wetlands, eco-sensitive zones, and environmental regulations.\nSubject Matter Expert — Tata Consultancy Services (TCS iON)\nJanuary 2025 – Present\nReview and develop academic content and assessment materials in social science and geography, with expertise in research methods, spatial analysis, and geographic concepts."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Susmita",
+    "title": "Susmita Sarkar",
     "section": "",
-    "text": "title: “Susmita” image: profile.jpg about: template: trestles image-shape: round image-width: 14em links: - icon: envelope text: Email href: mailto:Susmita.Sarkar@UTDallas.edu - icon: github text: GitHub href: https://github.com/USERNAME - icon: mortarboard text: Google Scholar href: https://scholar.google.com/citations?user=XXXX\n\nI am a PhD student in Public Policy and Political Economy at the University of Texas at Dallas. My research examines … ## Research Interests - Interest one - Interest two - Interest thre"
+    "text": "I am a researcher with a Ph.D. in Geography from Jamia Millia Islamia, New Delhi (India). My doctoral research focused on vulnerability mapping of seismic hazards in Delhi using GIS, spatial analysis, and social vulnerability assessment.\nI have professional experience in environmental research, policy analysis, project management, community engagement, and stakeholder collaboration, including work on forest rights, climate adaptation, wetlands, forest clearances, and environmental policies in India.\nCurrently, I am pursuing an M.S. in Social Data Analytics and Research at the University of Texas at Dallas to strengthen my skills in GIS, spatial analysis, and data analytics. My research interests include - Hazard Vulnerability and Risk Mapping - Community Resilience and Adaptation"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Paper Title Here with A. Coauthor — under review [PDF] [Code] &gt; One- or two-sentence abstract: the argument and the empirical strategy. Data-generating process. Where these data came from, who produced them, and what was decided in producing them. ## Publications Your Name (2025). “A Real Title.” Journal, 12(3), 45–67. [DOI]"
+    "text": "Vulnerability Mapping of Urban Hazards with a Focus on Seismic Hazards in Delhi\nThis Ph.D. research examined spatial patterns of social vulnerability to seismic hazards in Delhi by integrating satellite imagery with primary and secondary data. Primary data were collected through field surveys across various parts of Delhi, focusing on socioeconomic characteristics, structural characteristics of buildings, and people’s knowledge, perceptions, and preparedness regarding earthquake emergencies. Statistical models were used to analyze the collected data, and GIS-based spatial analysis was used to map variations in seismic vulnerability across urban areas.\nData-generating process. The research used satellite imagery, secondary datasets, and primary data collected through field surveys in Delhi. Primary data were generated through structured field surveys that collected information on socioeconomic conditions, building characteristics, and earthquake-related knowledge, perception, and preparedness. Secondary demographic and geographic data were obtained from relevant administrative and spatial sources. These datasets were processed, integrated, and analyzed using statistical and GIS-based methods to develop spatial measures of seismic vulnerability."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
+    "objectID": "research.html#research-project",
+    "href": "research.html#research-project",
     "title": "Research",
     "section": "",
-    "text": "Paper Title Here with A. Coauthor — under review [PDF] [Code] &gt; One- or two-sentence abstract: the argument and the empirical strategy. Data-generating process. Where these data came from, who produced them, and what was decided in producing them. ## Publications Your Name (2025). “A Real Title.” Journal, 12(3), 45–67. [DOI]"
+    "text": "Vulnerability Mapping of Urban Hazards with a Focus on Seismic Hazards in Delhi\nThis Ph.D. research examined spatial patterns of social vulnerability to seismic hazards in Delhi by integrating satellite imagery with primary and secondary data. Primary data were collected through field surveys across various parts of Delhi, focusing on socioeconomic characteristics, structural characteristics of buildings, and people’s knowledge, perceptions, and preparedness regarding earthquake emergencies. Statistical models were used to analyze the collected data, and GIS-based spatial analysis was used to map variations in seismic vulnerability across urban areas.\nData-generating process. The research used satellite imagery, secondary datasets, and primary data collected through field surveys in Delhi. Primary data were generated through structured field surveys that collected information on socioeconomic conditions, building characteristics, and earthquake-related knowledge, perception, and preparedness. Secondary demographic and geographic data were obtained from relevant administrative and spatial sources. These datasets were processed, integrated, and analyzed using statistical and GIS-based methods to develop spatial measures of seismic vulnerability."
   }
 ]
