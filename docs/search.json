@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Susmita",
+    "section": "",
+    "text": "title: “Teaching”"
+  },
+  {
+    "objectID": "experience.html#teaching-assistant",
+    "href": "experience.html#teaching-assistant",
+    "title": "Susmita",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nEPPS 6302 — Methods of Data Collection and Production Fall 2026 · Course materials ## Guest Lectures - “Lecture Title,” EPPS XXXX, Spring 2026"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Susmita",
+    "section": "",
+    "text": "title: “Susmita” image: profile.jpg about: template: trestles image-shape: round image-width: 14em links: - icon: envelope text: Email href: mailto:Susmita.Sarkar@UTDallas.edu - icon: github text: GitHub href: https://github.com/USERNAME - icon: mortarboard text: Google Scholar href: https://scholar.google.com/citations?user=XXXX\n\nI am a PhD student in Public Policy and Political Economy at the University of Texas at Dallas. My research examines … ## Research Interests - Interest one - Interest two - Interest thre"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title Here with A. Coauthor — under review [PDF] [Code] &gt; One- or two-sentence abstract: the argument and the empirical strategy. Data-generating process. Where these data came from, who produced them, and what was decided in producing them. ## Publications Your Name (2025). “A Real Title.” Journal, 12(3), 45–67. [DOI]"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title Here with A. Coauthor — under review [PDF] [Code] &gt; One- or two-sentence abstract: the argument and the empirical strategy. Data-generating process. Where these data came from, who produced them, and what was decided in producing them. ## Publications Your Name (2025). “A Real Title.” Journal, 12(3), 45–67. [DOI]"
+  }
+]
