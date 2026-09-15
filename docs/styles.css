@@ -1,1 +1,15 @@
 /* css styles */
+.document-box {
+  width: 100%;
+  height: 800px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.document-box iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
