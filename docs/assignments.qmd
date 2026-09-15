@@ -1,0 +1,43 @@
+---
+title: "Assignments"
+editor: visual
+---
+
+## Assignment 1
+
+### Analysis of Anscombe's Article
+
+<iframe src="Anscombe_Article_Analysis.pdf"
+
+        width="100%"
+
+        height="800px"
+
+        style="border: 1px solid #ccc; border-radius: 8px;">
+
+</iframe>
+
+<br><br>
+
+### Critique of a Chart
+
+<iframe src="Chart_Critique.pdf"
+
+        width="100%"
+
+        height="800px"
+
+        style="border: 1px solid #ccc; border-radius: 8px;">
+
+</iframe>
+
+<br><br>
+
+### Assignment Image
+
+<img src="Winter_Slategray.png"
+
+     width="80%"
+
+     style="border: 1px solid #ccc; border-radius: 8px;">
+---
