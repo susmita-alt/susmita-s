@@ -1,0 +1,11 @@
+---
+title: "Research"
+---
+
+## Research Project
+
+**Vulnerability Mapping of Urban Hazards with a Focus on Seismic Hazards in Delhi**
+
+This Ph.D. research examined spatial patterns of social vulnerability to seismic hazards in Delhi by integrating satellite imagery with primary and secondary data. Primary data were collected through field surveys across various parts of Delhi, focusing on socioeconomic characteristics, structural characteristics of buildings, and people's knowledge, perceptions, and preparedness regarding earthquake emergencies. Statistical models were used to analyze the collected data, and GIS-based spatial analysis was used to map variations in seismic vulnerability across urban areas.
+
+**Data-generating process.** The research used satellite imagery, secondary datasets, and primary data collected through field surveys in Delhi. Primary data were generated through structured field surveys that collected information on socioeconomic conditions, building characteristics, and earthquake-related knowledge, perception, and preparedness. Secondary demographic and geographic data were obtained from relevant administrative and spatial sources. These datasets were processed, integrated, and analyzed using statistical and GIS-based methods to develop spatial measures of seismic vulnerability.

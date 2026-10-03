@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Susmita"
+  description: "One line about your research"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: research.qmd
+        text: Research
+
+      - href: experience.qmd
+        text: Experience
+
+      - href: cv.qmd
+        text: CV
+
+      - href: assignments.qmd
+        text: Assignments
+
+    right:
+      - icon: github
+        href: https://github.com/USERNAME
+
+      - icon: envelope
+        href: mailto:you@utdallas.edu
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

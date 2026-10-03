@@ -1,0 +1,22 @@
+---
+title: "Susmita Sarkar"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Susmita.Sarkar@UTDallas.edu
+    - icon: github
+      text: GitHub
+      href: https://susmita-alt.github.io/susmita-s/
+---
+I am a researcher with a Ph.D. in Geography from Jamia Millia Islamia, New Delhi (India). My doctoral research focused on vulnerability mapping of seismic hazards in Delhi using GIS, spatial analysis, and social vulnerability assessment.
+
+I have professional experience in environmental research, policy analysis, project management, community engagement, and stakeholder collaboration, including work on forest rights, climate adaptation, wetlands, forest clearances, and environmental policies in India.
+
+Currently, I am pursuing an M.S. in Social Data Analytics and Research at the University of Texas at Dallas to strengthen my skills in GIS, spatial analysis, and data analytics. My research interests include
+- Hazard Vulnerability and Risk Mapping
+- Community Resilience and Adaptation
